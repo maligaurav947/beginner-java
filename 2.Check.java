@@ -1,3 +1,5 @@
+//When You are Run This Code in Your IDE Just ReName the File Name as a Class_Name
+
 //Check if Number is a Alphabet , Character , Special Symbol
 
 import java.lang.*;
