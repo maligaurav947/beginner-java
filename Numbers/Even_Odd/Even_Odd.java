@@ -1,5 +1,3 @@
-//When You are Run This Code in Your IDE Just ReName the File Name as a Class_Name
-
 // Check The Number is Even or Odd
 
 import java.lang.*;
